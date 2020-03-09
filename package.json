@@ -1,0 +1,20 @@
+{
+  "name": "dpg",
+  "version": "1.0.0",
+  "description": "# What is it? Created a command-line application that dynamically generates a PDF profile from a GitHub username. The application will be invoked with the following command:",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "github-scraper": "^6.8.0",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.6",
+    "run-async": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
