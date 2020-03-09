@@ -23,10 +23,14 @@ SO THAT I can easily prepare reports for stakeholders
 https://solka2019.github.io/Developer-Profile-Generator/.
 
 ## Screenshot
-![Image description](./assets/choose-each-color-Capture.PNG)
+![Image description](./assets/choose-each-color.PNG)
 ![Image description](./assets/pink-Capture.PNG)
 ![Image description](./assets/green-Capture.PNG)
 ![Image description](./assets/blue-Capture.PNG)
 ![Image description](./assets/red-Capture.PNG)
+
+#### Questions:
+- My pdf is showing in 2 pages. How do I make it show in one page only?
+
 
 
